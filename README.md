@@ -168,17 +168,12 @@ The dashboard includes a slicer for:
 
 ## Excel Business Analysis
 
-Add your Excel Business Analysis screenshot to this folder as:
 
-`image/Business Analysis.png`
 
-Then use:
-
-```markdown
 <p align="center">
-  <img src="images/Business Analysis.png" alt="E-Commerce Business Analysis" width="100%">
+  <img src="image/Business Analysis.png" alt="E-Commerce Business Analysis" width="100%">
 </p>
-```
+
 
 ---
 
