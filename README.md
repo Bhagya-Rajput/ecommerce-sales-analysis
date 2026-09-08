@@ -281,6 +281,12 @@ I enjoy working with data to discover meaningful patterns, create visualizations
 
 ---
 
+# 📄 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for more information.
+
+
 ## ⭐ Thank You
 
 Thank you for taking the time to explore my **E-Commerce Sales Analysis** project.
